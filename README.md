@@ -51,7 +51,7 @@ Telecom companies lose significant revenue due to customer churn. This project b
 | **seaborn**       | Statistical visualisation                |
 | **joblib**        | Model serialisation (.pkl files)         |
 | **Streamlit**     | Interactive web app                      |
-| **IBM Bob IDE**   | Development environment (all-in-one)     |
+| **IBM Bob IDE**   | Development environment                  |
 
 ---
 
@@ -206,7 +206,7 @@ Three models were trained and evaluated on a **80/20 stratified train-test split
 
 - **Name:** [Karan Kumar Chauhan]
 - **Internship:** AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 | BharatCares
-- **IDE Used:** IBM Bob IDE
+- **IDE Used:** IBM Bob 
 - **GitHub:** [(https://github.com/coderrzkaran18)]
 
 ---
