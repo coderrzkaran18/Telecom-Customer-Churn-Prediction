@@ -1,6 +1,6 @@
 # 📡 Telco Customer Churn Prediction 
 
-> **AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 | BharatCares**
+
 
 ---
 
